@@ -1,2 +1,2 @@
-# Deveops-lifecycle-phrases
+# Deveops-lifecycle
 about deveops lifecycle phrases
